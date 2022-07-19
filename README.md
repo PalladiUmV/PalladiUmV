@@ -16,15 +16,15 @@
 
  
 <p>
-<img  width="500" height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=palladiumv&" alt="palladiumv"/>
+<img  width="500" height="170" src="https://github-readme-streak-stats.herokuapp.com/?&hide_border=true&theme=dark&user=palladiumv" alt="palladiumv"/>
 </p>
 
 <p>
-<img width="500" height="250" src="https://github-readme-stats.vercel.app/api/top-langs?username=palladiumv&show_icons=true&locale=en&layout=compact" alt="palladiumv"/>
+<img width="500" height="250" src="https://github-readme-stats.vercel.app/api/top-langs?username=palladiumv&theme=dark&border_color=eb3bce&show_icons=true&locale=en&layout=compact" alt="palladiumv"/>
 </p>
 
 <p>
-<img width="500" height="180" src="https://github-readme-stats.vercel.app/api?username=palladiumv&show_icons=true&locale=en" alt="palladiumv"/>
+<img width="500" height="180" src="https://github-readme-stats.vercel.app/api?theme=dark&username=palladiumv&hide_border=true&show_icons=true&locale=en" alt="palladiumv" />
 </p>
 
 <br>
