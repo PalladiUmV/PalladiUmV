@@ -1,10 +1,12 @@
-<!-- ![MasterHead](https://i.ibb.co/1b3ZSVk/12345.png) -->
+<div align='center'>
+<a href="#"><img width="130px" height="150px" src="https://icon-library.com/images/react-icon/react-icon-29.jpg"/></a>
+</div>
 
 <h1 align="center">Hi 👋, I'm Vadim</h1>
 <h3 align="center">A passionate frontend developer from Russia</h3>
 
 
-<img align="right" alt="coding" width="350" height="250" 
+<img align="right" alt="coding" width="300" height="200" 
  src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 
 <span> 👨‍💻 All of my projects are available at [https://github.com/PalladiUmV?tab=repositories](https://github.com/PalladiUmV?tab=repositories)</span>
