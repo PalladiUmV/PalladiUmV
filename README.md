@@ -1,10 +1,10 @@
-![MasterHead](https://berita.teknologi.id/uploads/article/1620072918_%28wallpaper%20acceess%29.jpg)
+<!-- ![MasterHead](https://i.ibb.co/1b3ZSVk/12345.png) -->
 
 <h1 align="center">Hi 👋, I'm Vadim</h1>
 <h3 align="center">A passionate frontend developer from Russia</h3>
 
 
-<img align="right" alt="coding" width="400" height="250" 
+<img align="right" alt="coding" width="350" height="250" 
  src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 
 <span> 👨‍💻 All of my projects are available at [https://github.com/PalladiUmV?tab=repositories](https://github.com/PalladiUmV?tab=repositories)</span>
