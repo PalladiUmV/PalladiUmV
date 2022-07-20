@@ -2,7 +2,7 @@
 <a href="#"><img width="130px" height="150px" src="https://icon-library.com/images/react-icon/react-icon-29.jpg"/></a>
 </div>
 
-<h1 align="center">Hi 👋, I'm Vadim</h1>
+<h1 align="center">Hi 👋</h1>
 <h3 align="center">A passionate frontend developer from Russia</h3>
 
 
