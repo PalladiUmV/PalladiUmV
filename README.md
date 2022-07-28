@@ -33,7 +33,7 @@
 <br>
 <br>
 
-<h1 align="center"> My works: </h1>
+<h1 align="center"> Мои работы: </h1>
 
 [![An old rock in the desert](https://i.ibb.co/Ln0019S/spotify.png "spotify jobs")](https://palladiumv.github.io/Spotify-Jobs/)
 
