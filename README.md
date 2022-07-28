@@ -9,7 +9,7 @@
 <img align="right" alt="coding" width="300" height="200" 
  src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 
-<span> 👨‍💻 С моими проектами можно ознакомиться тут [https://github.com/PalladiUmV?tab=repositories](https://github.com/PalladiUmV?tab=repositories)</span>
+<span> 👨‍💻 С моими проектами можно ознакомиться тут [тут](https://github.com/PalladiUmV?tab=repositories)</span>
 
 <h3 >Languages and Tools:</h3>
 
