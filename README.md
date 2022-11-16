@@ -5,8 +5,6 @@
 </div>
 
 <h1 align="center">Привет 👋</h1>
-<h3 align="center">A passionate frontend developer from Russia</h3>
-
 
 <span> 👨‍💻 Мои пет проекты на этой этой странице снизу ↓ </span> <br/> <br/>
 <span> 👨‍💻 Со всеми моими проектами можно ознакомиться [здесь](https://github.com/PalladiUmV?tab=repositories)</span> 
