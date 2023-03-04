@@ -28,7 +28,7 @@
 
 <h1 align="center"> Мои работы: </h1>
 
-[![createX](https://i.ibb.co/37Vw5pV/Createx.png "createX")](https://palladiumv.github.io/createx)
+[![createX](https://i.ibb.co/6J9WcsX/createx2.png "createX")](https://palladiumv.github.io/createx)
 
 [![spotifyJobs](https://i.ibb.co/Ln0019S/spotify.png "spotify jobs")](https://palladiumv.github.io/Spotify-Jobs/)
 
