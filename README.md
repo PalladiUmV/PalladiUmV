@@ -28,7 +28,7 @@
 
 <h1 align="center"> Мои работы: </h1>
 
-[![An old rock in the desert](https://i.ibb.co/JBwsmjY/createx.png "createX")](https://palladiumv.github.io/createx)
+[![An old rock in the desert](https://ibb.co/cgSrkhW "createX")](https://palladiumv.github.io/createx)
 
 [![An old rock in the desert](https://i.ibb.co/Ln0019S/spotify.png "spotify jobs")](https://palladiumv.github.io/Spotify-Jobs/)
 
