@@ -30,6 +30,7 @@
 
 [![createX](https://i.ibb.co/JBwsmjY/createx.png "createX")](https://palladiumv.github.io/createx)
 
+
 [![spotifyJobs](https://i.ibb.co/Ln0019S/spotify.png "spotify jobs")](https://palladiumv.github.io/Spotify-Jobs/)
 
 [![reStore](https://i.ibb.co/1z1sDYk/bookstore.png "book store")](https://palladiumv.github.io/reStore/)
