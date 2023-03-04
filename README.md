@@ -28,14 +28,14 @@
 
 <h1 align="center"> Мои работы: </h1>
 
-[![An old rock in the desert](https://ibb.co/cgSrkhW "createX")](https://palladiumv.github.io/createx)
+[![createX](https://i.ibb.co/JBwsmjY/createx.png "createX")](https://palladiumv.github.io/createx)
 
-[![An old rock in the desert](https://i.ibb.co/Ln0019S/spotify.png "spotify jobs")](https://palladiumv.github.io/Spotify-Jobs/)
+[![spotifyJobs](https://i.ibb.co/Ln0019S/spotify.png "spotify jobs")](https://palladiumv.github.io/Spotify-Jobs/)
 
-[![An old rock in the desert](https://i.ibb.co/1z1sDYk/bookstore.png "book store")](https://palladiumv.github.io/reStore/)
+[![reStore](https://i.ibb.co/1z1sDYk/bookstore.png "book store")](https://palladiumv.github.io/reStore/)
 
-[![An old rock in the desert](https://i.ibb.co/0Bzc2LL/weather.png "weather app")](https://palladiumv.github.io/weather-app/)
+[![weather app](https://i.ibb.co/0Bzc2LL/weather.png "weather app")](https://palladiumv.github.io/weather-app/)
 
-[![An old rock in the desert](https://i.ibb.co/1JGWm3L/star-wars.png "star wars")](https://palladiumv.github.io/starWarsDB/)
+[![star wars db](https://i.ibb.co/1JGWm3L/star-wars.png "star wars")](https://palladiumv.github.io/starWarsDB/)
 
-[![An old rock in the desert](https://i.ibb.co/3rPXRnX/flaby.png "flaby landing page")](https://palladiumv.github.io/Flaby/)
+[![Flaby](https://i.ibb.co/3rPXRnX/flaby.png "flaby landing page")](https://palladiumv.github.io/Flaby/)
